@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #437eab;
+  background-color: #5d261e;
 }
 
 ul li {
@@ -42,7 +42,7 @@ ul li.logo img {
   padding: 5px 10px;
 }
 body{
-  background-image: url('img3.png');
+  background-image: url('img5.jpg');
 background-size: cover;
 }
 /* Ajuste para os outros links virem depois da logo */
@@ -55,18 +55,18 @@ body{
   background-color: rgba(11, 57, 134, 0.891);
 }
 body {
-  font-family: 'Cinzel', serif;
+ font-family: "Covered By Your Grace", cursive;
   color: #e1e2e4; /* cor parecida com a usada no menu */
 }
 
 h1, h2 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Caveat', serif;
   font-weight: 700;
   letter-spacing: 10px; 
   text-transform: uppercase; 
 }
 #cardapio{
-  font-size: 20px;
-  color: black;
-  text-align: center;
+  font-size: 30px;
+  color: rgb(251, 251, 251);
+  text-align: left;
 }
